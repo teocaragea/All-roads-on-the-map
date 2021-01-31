@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1509704373 source:e:\0-clase\11-e\bkt\37-soricel-grupa2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+
+1509705254 source:g:\scoala\11-e\bkt\37-soricel-grupa2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+
+1510052262 source:c:\documents and settings\11_e\desktop\37-soricel-grupa2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+
+1510085146 source:c:\users\theo\desktop\37-soricel-grupa2\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+
+1510129322 source:c:\users\theo\desktop\caragea.rotaru\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+
+1603662766 source:c:\users\costangy\desktop\teo projects\caragea.rotaru\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<graphics.h>
+	<time.h>
+
